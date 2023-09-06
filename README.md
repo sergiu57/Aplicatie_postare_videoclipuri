@@ -4,7 +4,7 @@ Aplicație postare videoclipuri - Licență
 
 - Pasi pentru rulare:
 
-1.Se instaleaza Xampp
+ 1.Se instaleaza Xampp
 
 2. Se porneste Apache si MySQL
    
